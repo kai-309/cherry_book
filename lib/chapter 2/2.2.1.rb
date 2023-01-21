@@ -15,4 +15,3 @@ false.to_s # "false"         false to string
 
 # 正規表現 (※要)
 /\d+/.to_s # "(?-mix:\\d+)"  正規表記 to string
-
